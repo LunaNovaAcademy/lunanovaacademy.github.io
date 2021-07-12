@@ -1,2 +1,1 @@
-# lunanovacademy.github.io
-Site of LunaNovaAcademy/ brazilian discord community.
+<h1>🧹 Luna Nova Academy 🧹</h1>
